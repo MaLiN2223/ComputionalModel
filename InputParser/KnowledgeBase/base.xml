@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <consts>
+    <const name="g">9.80665</const>
+  </consts>
+  <equations>
+    <equation>K=m*v^2/2</equation>
+    <equation>P=m*g*h</equation>
+    <equation>M=K+P</equation>
+    <equation>F=a*m</equation>
+    <equation>a=v/t</equation>
+  </equations>
+</root>
